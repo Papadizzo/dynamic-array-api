@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 #include <stdbool.h>
-#include <stdint.h>  /* Add this for SIZE_MAX */
+#include <stdint.h>  
 
 /* Opaque pointer type for vector */
 typedef struct vector* Vector;
