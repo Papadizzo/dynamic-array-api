@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
-#include <stdint.h>  /* Add this for SIZE_MAX */
+#include <stdint.h> 
 
 #define VECTOR_MIN_CAPACITY 8
 #define VECTOR_GROWTH_FACTOR 2
